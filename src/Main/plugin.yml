@@ -1,0 +1,7 @@
+name: Main
+version: 1.0
+main: javaplugin.Main
+
+commands:
+  tp:
+    description: teleport
